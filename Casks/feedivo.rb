@@ -1,6 +1,6 @@
 cask "feedivo" do
-  version "1.0,18"
-  sha256 "feba4ac19961579e55b48a485a48f02f7f7bb9ff10f99264544b6c11995ab6ac"
+  version "1.0,19"
+  sha256 "7cadd27fd67b0bd597a1bf32ea5b3e9eee3a1fcb95f2046323ea0d113f79a7c5"
 
   url "https://github.com/martinfelder/feedivo-mac/releases/download/v#{version.csv[0]}-#{version.csv[1]}/Feedivo-v#{version.csv[0]}-#{version.csv[1]}.zip"
   name "Feedivo"
